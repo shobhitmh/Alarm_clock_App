@@ -1,16 +1,18 @@
-# alarmclock
 
-A new Flutter project.
+# Alarm Clock App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Alarm Clock App is a simple and intuitive Flutter application that allows users to set and manage alarms easily. With a clean and user-friendly interface, the app provides all the essential features to help you wake up on time and manage your schedule effectively..The app offers various features such as:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Key Features
+- Home Screen: Displays the current time and date for quick reference.
+- Set New Alarm: Easy-to-use time picker to set the desired alarm time.
+- Alarm Management: View a list of all set alarms with an option to enable or disable each alarm with a toggle switch.
+
+- User-Friendly Design: Visually appealing interface designed for simplicity and ease of use.
+
+
+### Demo
+https://www.linkedin.com/posts/shobhitmhase_codsoft-internship-appdevelopment-activity-7236767274857025536-bOuF?utm_source=share&utm_medium=member_desktop
